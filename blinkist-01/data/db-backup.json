@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Beyond Entrepreneurship",
+      "author": "Jim Collins and Bill Lazier",
+      "duration": 15,
+      "category": "Entrepreneurship",
+      "image": "/images/coverimages/1.png",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 2,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "image": "/images/coverimages/2.png",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 3,
+      "image": "/images/coverimages/3.png",
+      "title": "Doesn’t Hurt to Ask",
+      "author": "Trey Gowdy",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 4,
+      "image": "/images/coverimages/4.png",
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "duration": 12,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 5,
+      "image": "/images/coverimages/5.png",
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 6,
+      "image": "/images/coverimages/6.png",
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 7,
+      "image": "/images/coverimages/7.png",
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "duration": 15,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 8,
+      "image": "/images/coverimages/8.png",
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 9,
+      "image": "/images/coverimages/9.png",
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 10,
+      "image": "/images/coverimages/10.png",
+      "title": "Being Boss",
+      "author": "Kathleen Shannon and Emily",
+      "duration": 13,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    },
+    {
+      "id": 11,
+      "image": "/images/coverimages/11.png",
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "duration": 15,
+      "category": "Entrepreneurship",
+      "isInMyLibrary":true,
+      "isFinished":false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "title": "Beyond Entrepreneurship",
+      "author": "Jim Collins & Bill Lazier",
+      "duration": 15,
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "image": "/images/coverimages/1.png",
+      "isInMyLibrary": true,
+      "isFinished": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "image": "/images/coverimages/2.png",
+      "duration": "13",
+      "reads": "1.9k reads",
+      "isInMyLibrary": true,
+      "isFinished": false
+    },
+    {
+      "id": 3,
+      "image": "/images/coverimages/3.png",
+      "title": "Doesn’t Hurt to Ask",
+      "author": "Trey Gowdy",
+      "duration": 13,
+      "reads": "1.9k reads",
+      "category": "Psychology",
+      "isInMyLibrary": true,
+      "isFinished": false
+    },
+    {
+      "id": 4,
+      "image": "/images/coverimages/4.png",
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "duration": 12,
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": true,
+      "isFinished": false
+    },
+    {
+      "id": 5,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday",
+      "image": "/images/coverimages/5.png",
+      "duration": "13",
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": true,
+      "isFinished": false
+    },
+    {
+      "id": 6,
+      "image": "/images/coverimages/6.png",
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "duration": 13,
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": false,
+      "isFinished": false
+    },
+    {
+      "id": 7,
+      "image": "/images/coverimages/7.png",
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "duration": 15,
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": false,
+      "isFinished": false
+    },
+    {
+      "id": 8,
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "image": "/images/coverimages/8.png",
+      "duration": "13",
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": true,
+      "isFinished": false
+    },
+    {
+      "id": 9,
+      "image": "/images/coverimages/9.png",
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "duration": 13,
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": false,
+      "isFinished": false
+    },
+    {
+      "id": 10,
+      "title": "Being Boss",
+      "author": "Kathleen Shannon",
+      "image": "/images/coverimages/10.png",
+      "duration": "13",
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": false,
+      "isFinished": false
+    },
+    {
+      "id": 11,
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "image": "/images/coverimages/11.png",
+      "duration": "15",
+      "reads": "1.9k reads",
+      "category": "Entrepreneurship",
+      "isInMyLibrary": false,
+      "isFinished": false
+    }
+  ]
+}
